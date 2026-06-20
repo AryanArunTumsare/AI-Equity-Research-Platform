@@ -625,7 +625,7 @@ the global destination for software
 services talent. We pioneered the 
 Global Delivery Model and became 
 the first IT company from India to be 
-listed on NASDAQ.
+listed on NASDos.getenv("GEMINI_API_KEY")
 Our Values 
 Our Company’s Code of Conduct stands 
 on the strong foundation set by our 

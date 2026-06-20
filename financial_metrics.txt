@@ -1,0 +1,27 @@
+Company: TCS
+Revenue: ₹ 267,021 crore (US $30 billion)
+Net Profit: ₹ 52,820 crore (US $5.9 billion)
+EPS: Not explicitly stated in the provided text.
+Operating Margin: 25.0%
+ROE: Not explicitly stated in the provided text.
+Free Cash Flow: Not explicitly stated in the provided text.
+Total Assets: Not explicitly stated in the provided text.
+Total Debt: Not explicitly stated in the provided text.
+Dividend Per Share: ₹110/- (₹31/- final dividend recommended)
+
+============================================================
+
+Company: Infosys
+
+Revenue: ₹1,78,650 crore
+Net Profit: ₹29,440 crore
+EPS: ₹71.58
+Operating Margin: 21.0% (Adjusted operating margin)
+ROE: Not explicitly stated, but a 31.6% "Return on equity" metric is shown without a specific value.
+Free Cash Flow: ₹33,097 crore
+Total Assets: Not explicitly stated.
+Total Debt: Not explicitly stated, but mentioned as having a "strong, debt-free, and liquid Balance Sheet".
+Dividend Per Share: ₹48.0
+
+============================================================
+
